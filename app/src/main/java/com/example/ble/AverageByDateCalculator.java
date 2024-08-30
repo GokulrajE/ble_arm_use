@@ -11,9 +11,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-
-
-
 public class AverageByDateCalculator {
 
     public static Map<Date, Float[]> calculateAverages(String mainFolderPath) throws IOException, ParseException {
